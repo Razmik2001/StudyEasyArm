@@ -2,6 +2,8 @@
 
 A Telegram bot designed to support self-education, provide administrative assistance, and deliver useful opportunities (like job/volunteer/education programs) to Armenian users.
 
+> 🤖 Live Bot: [@StudyEasyArm_bot](https://t.me/StudyEasyArm_bot)
+
 ---
 
 ## 🚀 Features
@@ -106,6 +108,3 @@ We’d love to hear your thoughts! Fill out the feedback form:
 MIT License. Feel free to use, modify, and share.
 
 ---
-
-## 🇦🇲 Made with ❤️ for Armenian learners.
-
