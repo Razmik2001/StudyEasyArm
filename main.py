@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Your bot token from BotFather
-TOKEN = os.getenv("MYTOKEN")
+TOKEN = "7681089825:AAGr-SFyODXro57n-YvEpfDw4h9-LeQJ86w""
 
 
 # "7681089825:AAGr-SFyODXro57n-YvEpfDw4h9-LeQJ86w"
