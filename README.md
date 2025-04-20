@@ -98,7 +98,6 @@ python main.py
 
 ## 📬 Feedback
 
-
 We’d love to hear your thoughts! Fill out the feedback form:
 [Give Feedback](https://forms.gle/NApZjdb3Uhx2eypA9)
 
