@@ -1,4 +1,4 @@
-# 📚 StudyEasyArm Bot
+# 📚 StudyEasyArm Bot 
 
 A Telegram bot designed to support self-education, provide administrative assistance, and deliver useful opportunities (like job/volunteer/education programs) to Armenian users.
 
