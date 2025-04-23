@@ -5,7 +5,6 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 import json
 from dotenv import load_dotenv
 
-from dotenv import load_dotenv
 load_dotenv()
 
 TOKEN = os.getenv("TOKEN")
