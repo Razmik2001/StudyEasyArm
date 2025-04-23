@@ -5,13 +5,11 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 import json
 from dotenv import load_dotenv
 
+from dotenv import load_dotenv
 load_dotenv()
 
-# Your bot token from BotFather
-TOKEN = "7681089825:AAGr-SFyODXro57n-YvEpfDw4h9-LeQJ86w"
+TOKEN = os.getenv("TOKEN")
 
-
-# "7681089825:AAGr-SFyODXro57n-YvEpfDw4h9-LeQJ86w"
 
 # Define a function for the /start command with buttons for all commands
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
