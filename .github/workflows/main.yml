@@ -36,6 +36,7 @@ jobs:
           mkdir -p ~/telegram_bot
           unzip -o ~/telegram_bot.zip -d ~/telegram_bot
           cd ~/telegram_bot
+          echo ${{ secrets.TOKEN_ENV }} > .env
           sudo docker stop telegram_bot_container || true
           sudo docker rm telegram_bot_container || true
           sudo docker build -t telegram_bot_image .
